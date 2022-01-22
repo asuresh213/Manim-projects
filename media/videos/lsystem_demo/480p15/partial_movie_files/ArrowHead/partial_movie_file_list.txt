@@ -1,0 +1,7 @@
+file 'file:C:/manim/media/videos/lsystem_demo/480p15/partial_movie_files/ArrowHead/00000.mp4'
+file 'file:C:/manim/media/videos/lsystem_demo/480p15/partial_movie_files/ArrowHead/00001.mp4'
+file 'file:C:/manim/media/videos/lsystem_demo/480p15/partial_movie_files/ArrowHead/00002.mp4'
+file 'file:C:/manim/media/videos/lsystem_demo/480p15/partial_movie_files/ArrowHead/00003.mp4'
+file 'file:C:/manim/media/videos/lsystem_demo/480p15/partial_movie_files/ArrowHead/00004.mp4'
+file 'file:C:/manim/media/videos/lsystem_demo/480p15/partial_movie_files/ArrowHead/00005.mp4'
+file 'file:C:/manim/media/videos/lsystem_demo/480p15/partial_movie_files/ArrowHead/00006.mp4'
